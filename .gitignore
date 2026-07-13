@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+uploads/mobil/*
+uploads/ktp/*
+uploads/sim/*
+uploads/bukti_bayar/*
+uploads/ulasan/*
+uploads/dokumen/*
+uploads/profil/*
+uploads/admin/*
+!uploads/*/.gitkeep
+cek_upload.php
+cek_error.php
+*.log
+.vscode/
+.idea/

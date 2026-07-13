@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260">
+  <rect width="400" height="260" fill="#eef1f4"/>
+  <g fill="#9aa5b1">
+    <path d="M95 165c0-6 4-11 10-13l14-30c3-7 10-11 17-11h88c7 0 14 4 17 11l14 30c6 2 10 7 10 13v28c0 3-3 6-6 6h-14c-3 0-6-3-6-6v-6H121v6c0 3-3 6-6 6h-14c-3 0-6-3-6-6z"/>
+  </g>
+  <g fill="#cbd2d9">
+    <circle cx="135" cy="193" r="14"/>
+    <circle cx="265" cy="193" r="14"/>
+  </g>
+  <path d="M140 122h120l-11-24c-2-4-6-7-11-7h-76c-5 0-9 3-11 7z" fill="#b3bcc6"/>
+  <text x="200" y="235" font-family="Arial, sans-serif" font-size="14" fill="#9aa5b1" text-anchor="middle">Foto Mobil</text>
+</svg>
